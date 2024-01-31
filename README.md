@@ -1,6 +1,6 @@
 # Community Makes a Painting
-This is the GitHub page for CMaP.  
-❗ The image is 16x16 ❗
+This is the GitHub page for CMaP by `hrant._.`.  
+### ❗ The image is 16x16 ❗
 
 # Commands
 | Command      | Syntax                   | Permissions | Description               |
